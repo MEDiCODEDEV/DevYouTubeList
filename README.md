@@ -401,6 +401,7 @@
 * [Neto Marin](https://www.youtube.com/user/netomarin)
 * [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
+* [Dev Aprender](https://www.youtube.com/devaprender)
 
 
 ## Korean
